@@ -1,7 +1,7 @@
 {
-  "main.css": "/tequepops/static/css/main.5148b69d.chunk.css",
-  "main.js": "/tequepops/static/js/main.c3462da8.chunk.js",
-  "main.js.map": "/tequepops/static/js/main.c3462da8.chunk.js.map",
+  "main.css": "/tequepops/static/css/main.8348e5ce.chunk.css",
+  "main.js": "/tequepops/static/js/main.1ec37db2.chunk.js",
+  "main.js.map": "/tequepops/static/js/main.1ec37db2.chunk.js.map",
   "static/js/1.33546d6b.chunk.js": "/tequepops/static/js/1.33546d6b.chunk.js",
   "static/js/1.33546d6b.chunk.js.map": "/tequepops/static/js/1.33546d6b.chunk.js.map",
   "runtime~main.js": "/tequepops/static/js/runtime~main.44cdfa74.js",
@@ -10,8 +10,8 @@
   "static/media/plus-circle.svg": "/tequepops/static/media/plus-circle.73d3c13e.svg",
   "static/media/logo.svg": "/tequepops/static/media/logo.5d5d9eef.svg",
   "static/media/alert-triangle.svg": "/tequepops/static/media/alert-triangle.207fba57.svg",
-  "static/css/main.5148b69d.chunk.css.map": "/tequepops/static/css/main.5148b69d.chunk.css.map",
+  "static/css/main.8348e5ce.chunk.css.map": "/tequepops/static/css/main.8348e5ce.chunk.css.map",
   "index.html": "/tequepops/index.html",
-  "precache-manifest.3a4ff14a5a3323b7d9099a238c251c95.js": "/tequepops/precache-manifest.3a4ff14a5a3323b7d9099a238c251c95.js",
+  "precache-manifest.4be34c7c2ae4943cbbeb0f63e4bf926b.js": "/tequepops/precache-manifest.4be34c7c2ae4943cbbeb0f63e4bf926b.js",
   "service-worker.js": "/tequepops/service-worker.js"
 }
