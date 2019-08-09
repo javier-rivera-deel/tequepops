@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/tequepops/static/js/runtime~main.44cdfa74.js"
   },
   {
-    "revision": "1ec37db2c920d0be2702",
-    "url": "/tequepops/static/js/main.1ec37db2.chunk.js"
+    "revision": "79f130cf2174b34b4ed7",
+    "url": "/tequepops/static/js/main.79f130cf.chunk.js"
   },
   {
-    "revision": "33546d6bd12bbb48e080",
-    "url": "/tequepops/static/js/1.33546d6b.chunk.js"
+    "revision": "a606be833e33929d79b8",
+    "url": "/tequepops/static/js/1.a606be83.chunk.js"
   },
   {
-    "revision": "1ec37db2c920d0be2702",
-    "url": "/tequepops/static/css/main.8348e5ce.chunk.css"
+    "revision": "79f130cf2174b34b4ed7",
+    "url": "/tequepops/static/css/main.b3db3c5f.chunk.css"
   },
   {
-    "revision": "33c74107c0cbff209d2aaed89cec7a75",
+    "revision": "19684c576ff01e0b072f185affec8724",
     "url": "/tequepops/index.html"
   }
 ];
